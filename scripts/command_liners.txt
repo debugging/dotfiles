@@ -1,0 +1,1 @@
+ls -la --block-size=G  # or M
